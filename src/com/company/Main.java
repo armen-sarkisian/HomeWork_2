@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 public class Main {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         int checker = 0;
         FileWriter writer;
         System.out.println("Current text will be saved in a textfile. Please type file extension... (txt/doc/rtf)");
